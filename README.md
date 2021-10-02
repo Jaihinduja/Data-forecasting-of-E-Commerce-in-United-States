@@ -1,5 +1,5 @@
 # Data-forecasting-of-E-Commerce-in-United-States
-This project will show what is the overall trend in the United States marketplace, Will it be beneficial in future and Will people continue to buy from E-commerce.
+This project will showcase the overall trend in the United States marketplace regarding various products. Using the past values we will be forecasting the future sales' profit. It will give us a clear understanding if it will be beneficial in the future and will people continue to buy from E-commerce.
 
 We are going to perform a time-series analysis on the data with respect to the weekly sales of E-Commerce in the United States. Predicting E-Commerce sales will help us predict whether there will be any benefit of shifting offline business to online.
 
