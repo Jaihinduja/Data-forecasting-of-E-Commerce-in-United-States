@@ -19,5 +19,3 @@ Got data from a very popular site Kaggle ( URL: https://www.kaggle.com/ ). There
 1. Order date: This is a date format data, the date on which order was placed
 2. Category: Different categories of items ordered through E-Commerce
 3. Profit updated: It represents profit of the E commerce website of a company on a weekly basis.
-
-Links to my group members GitHub profiles: [Prerna Sharma](https://github.com/PrernaSharma96) and [Karan Shah](https://github.com/KaranS279).
